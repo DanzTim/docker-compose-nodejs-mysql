@@ -14,7 +14,7 @@
     "sequelize",
     "mysql"
   ],
-  "author": "bezkoder",
+  "author": "danztim",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
